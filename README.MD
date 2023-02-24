@@ -3,8 +3,8 @@
 
 ## API Endpoints
 
-#### GET /api/v1/courses - Get all courses
-#### GET /api/v1/course/:id - Get single course
-#### POST /api/v1/courses - Add course
-#### PUT /api/v1/courses/:id - Update course
-#### DELETE /api/v1/courses/:id - Delete course
+#### GET /api/courses - Get all courses
+#### GET /api/course/:id - Get single course
+#### POST /api/courses - Add course
+#### PUT /api/courses/:id - Update course
+#### DELETE /api/courses/:id - Delete course
