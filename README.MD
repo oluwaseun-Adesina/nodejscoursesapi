@@ -8,3 +8,6 @@
 #### POST /api/courses - Add course
 #### PUT /api/courses/:id - Update course
 #### DELETE /api/courses/:id - Delete course
+
+## Deployed on Render 
+#### https://specialmanbackendassignmentone.onrender.com/ 
